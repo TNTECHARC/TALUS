@@ -1,5 +1,5 @@
 //TALUS i2c communication server (Raspberry Pi)
-//Jim Moroney 2022
+//jpm 2022
 
 
 #include <TALUS_i2c.h>      //various stuff for talus
